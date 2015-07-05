@@ -4,4 +4,4 @@ Sun 5 July 2015
 http://tutorial.djangogirls.org/en/django_start_project/index.html
 Why the extra STATIC_ROOT in settings.py?
 
-
+This file should now be ignored.
